@@ -1,2 +1,2 @@
 # my-first-project
-my-excel-project
+my-PowerBI-project
