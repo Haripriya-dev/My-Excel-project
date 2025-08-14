@@ -1,5 +1,5 @@
-# my-first-project
-my-PowerBI-project
+# My-Excel-project
+JustLoan Capstone
 
 **📌 Project Overview**
 
