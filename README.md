@@ -39,3 +39,11 @@ JustLoan required a robust and data-driven process to evaluate creditworthiness 
 -Microsoft Excel: Data cleaning, transformation, pivot tables, and dashboard creation.
 
 -Data Analysis Techniques: Logical tests, rate analysis, and customer segmentation.
+
+**📈 Key Insights**
+
+-High-risk applicants identified through delivery and complete rate patterns.
+
+-Customer-level segmentation improved targeted loan approval strategies.
+
+-Order-level trends highlighted efficiency gaps in processing.
