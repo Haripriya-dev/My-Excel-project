@@ -1,5 +1,4 @@
-# My-Excel-project
-JustLoan Capstone
+# justloan-excel-dashboard
 
 **📌 Project Overview**
 
